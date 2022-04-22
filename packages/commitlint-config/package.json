@@ -1,0 +1,15 @@
+{
+  "name": "@eztek/commitlint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Hung Pham <truonghungit@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/commitlint-config.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
