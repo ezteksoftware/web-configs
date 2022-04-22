@@ -12,7 +12,6 @@
   "homepage": "https://github.com/ezteksoftware/web-configs/blob/main/packages/prettier-config/README.md",
   "main": ".prettierrc.json",
   "publishConfig": {
-    "access": "public",
-    "@eztek:registry": "https://registry.npmjs.org"
+    "access": "public"
   }
 }
